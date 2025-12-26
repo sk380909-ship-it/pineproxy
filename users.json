@@ -1,0 +1,10 @@
+{
+  "sai_krishna": {
+    "status": "active",
+    "expiry": "2025-01-20"
+  },
+  "test_user": {
+    "status": "expired",
+    "expiry": "2025-01-01"
+  }
+}
